@@ -1,8 +1,8 @@
 # Site Settings
-title: "Hello. I'm Jami Gibbs."
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
-url: 'https://jamigibbs.github.io/phantom/' # the base hostname & protocol for your site
-nav: "true"
+title: "Gabbi Merz"
+description: "I'm a Junior at Harvard pursuing an A.B./S.M. in Computer Science"
+url: 'https://gcmerz.github.io' # the base hostname & protocol for your site
+nav: "false"
 footer_text: '© 2016 Jami Gibbs'
 twitter: 'jamigibbs'
 github: 'jamigibbs'
