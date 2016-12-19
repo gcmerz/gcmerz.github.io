@@ -4,11 +4,11 @@ description: "I'm a Junior at Harvard pursuing an A.B./S.M. in Computer Science"
 url: 'https://gcmerz.github.io' # the base hostname & protocol for your site
 nav: "false"
 footer_text: '© 2016 Jami Gibbs'
-twitter: 'jamigibbs'
-github: 'jamigibbs'
-medium: 'blog.jamigibbs.com'
+twitter: ''
+github: 'gcmerz'
+medium: ''
 
 # Admin Settings
-admin_name: 'Jami Gibbs'
-admin_email: 'jami0821@gmail.com'
+admin_name: 'Gabbi Merz'
+admin_email: 'gmerz@college.harvard.edu'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
