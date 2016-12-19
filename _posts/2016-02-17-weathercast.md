@@ -9,5 +9,5 @@ featured_image: 'img/posts/02_weathercast-1130x864-2x.png'
 project_link: 'http://github.com/gcmerz/mitz2vec'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'Using word2vec for Link Prediction on Social Network Graphs'
+lead_text: 'Using word2vec for directed link prediction on the Twitter social network graph'
 ---
