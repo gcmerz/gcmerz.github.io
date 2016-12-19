@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
+title: 'person2vec'
 date: 2016-02-20 15:56:00
 categories: development
-tags: JavaScript AngularJS API Sass
+tags: Python Jupyter word2vec
 featured_image: 'img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
+project_link: 'http://github.com/gcmerz/mitz2vec'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+lead_text: 'Using word2vec for Link Prediction on Social Network Graphs'
 ---

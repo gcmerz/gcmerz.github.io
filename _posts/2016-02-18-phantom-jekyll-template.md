@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Phantom'
-date: 2016-02-20 21:15:00
-categories: development design
-tags: Jekyll Sass Bootstrap
+title: 'POMDPs for Personalized Mammography Screening'
+date: 216-02-20 21:15:00
+categories: AI 
+tags: Python
 featured_image: 'img/posts/04_phantom-jekyll-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs'
-button_icon: 'flask'
+project_link: 'https://github.com/gcmerz/pomdp'
+button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: "A minimalist Jekyll theme that you're looking at it right now"
+lead_text: "A data-driven AI a0pproach to personalize mammography screening decisions"
 ---
