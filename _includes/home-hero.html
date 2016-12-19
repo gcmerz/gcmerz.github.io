@@ -14,12 +14,11 @@
           <h1 class="text-center">{{site.data.global.title}}</h1>
           {% endif %}
           {% if site.data.global.description != '' %}
-          <p class="text-center">{{site.data.global.description}} {% include contact.html %}</p>
-          {% endif %}
-          <p class="text-center">In my free time I teach future tech assosciates of the
+          <p class="text-center">{{site.data.global.description}}
+          In my free time I teach future tech assosciates of the
             Harvard Crimson the basics of web development using Python + Django. I also help out Professor Stuart Shieber and Sam Green with teaching CS51: Abstraction and Design.
-            I like bad jokes, Thai food minus the peanuts, and any excuse to sleep in late. 
-          </p> 
+            I like bad jokes, Thai food minus the peanuts, and any excuse to sleep in late.  {% include contact.html %}</p>
+          {% endif %}
 
           {% include contact-modal.html %}
 
