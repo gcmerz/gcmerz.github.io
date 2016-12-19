@@ -1,9 +1,9 @@
 # Site Settings
 title: "Gabbi Merz"
-description: "I'm a Junior at Harvard pursuing an A.B./S.M. in Computer Science"
+description: "I'm a junior at Harvard pursuing an A.B./S.M. in Computer Science"
 url: 'https://gcmerz.github.io' # the base hostname & protocol for your site
 nav: "false"
-footer_text: '© 2016 Jami Gibbs'
+footer_text: '© 2016 Gabbi Merz. Template Courtesy of Jami Gibbs.'
 twitter: ''
 github: 'gcmerz'
 medium: ''
