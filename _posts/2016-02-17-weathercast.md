@@ -6,8 +6,8 @@ date: 2016-02-20 15:56:00
 categories: development
 tags: Python Jupyter word2vec
 featured_image: 'img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/gcmerz/mitz2vec'
+project_link: 'https://www.scribd.com/document/334578710/Person-2-Vec'
 button_icon: 'github'
-button_text: 'Go to the code' 
+button_text: 'Read the Paper' 
 lead_text: 'Using word2vec for directed link prediction on the Twitter social network graph'
 ---
