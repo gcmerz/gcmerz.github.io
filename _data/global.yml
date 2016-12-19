@@ -2,7 +2,7 @@
 title: "Gabbi Merz"
 description: "I'm a Junior at Harvard pursuing an A.B./S.M. in Computer Science"
 url: 'https://gcmerz.github.io' # the base hostname & protocol for your site
-nav: "false"
+nav: "true"
 footer_text: '© 2016 Jami Gibbs'
 twitter: ''
 github: 'gcmerz'
