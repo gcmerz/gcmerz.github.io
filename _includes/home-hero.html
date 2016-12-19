@@ -7,12 +7,13 @@
       <div class="hero-container">
 
         <div class="hero-content">
-          <img class = "img-circle" src="img/me.jpg"></img>
+          <img class = "img-circle" src="img/me.jpg" style = "width: 25%; height: 25%; display: block;
+    margin-left: auto; margin-right: auto"></img>
 
           {% if site.data.global.title != '' %}
           <h1 class="text-center">{{site.data.global.title}}</h1>
           {% endif %}
-          <p> Live, love, centered scaled images</p>
+          <p> inline CSS because i'm not a web developer</p>
           {% if site.data.global.description != '' %}
           <p class="text-center">{{site.data.global.description}} {% include contact.html %}</p>
           {% endif %}
