@@ -7,16 +7,19 @@
       <div class="hero-container">
 
         <div class="hero-content">
-          <img class = "img-circle" src="img/me.jpg" style = "width: 25%; height: 25%; display: block;
+          <img class = "img-circle" src="img/me.jpg" style = "width: 35%; height: 35%; display: block;
     margin-left: auto; margin-right: auto"></img>
 
           {% if site.data.global.title != '' %}
           <h1 class="text-center">{{site.data.global.title}}</h1>
           {% endif %}
-          <p> inline CSS because i'm not a web developer</p>
           {% if site.data.global.description != '' %}
           <p class="text-center">{{site.data.global.description}} {% include contact.html %}</p>
           {% endif %}
+          <p class="text-center">In my free time I teach future tech assosciates of the
+            Harvard Crimson the basics of web development using Python + Django. I also help out Professor Stuart Shieber and Sam Green with teaching CS51: Abstraction and Design.
+            I like bad jokes, Thai food minus the peanuts, and any excuse to sleep in late. 
+          </p> 
 
           {% include contact-modal.html %}
 
